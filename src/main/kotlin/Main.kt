@@ -5,6 +5,6 @@ import org.example.crud.criarTabelaCaixa
 import org.example.ui.menu
 
 fun main() {
-    criarTabelaCaixa()//Precisa ser o primeiro
+    val gerenciar = criarTabelaCaixa()//Precisa ser o primeiro
     menu()
 }

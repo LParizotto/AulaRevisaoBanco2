@@ -4,7 +4,7 @@ import org.example.enumeradores.Material
 import java.math.BigDecimal
 
 class CaixaDAgua (
-
+    //val id : Int,
     val material: Material,
     val capacidade : Int,
     val cor: String,
